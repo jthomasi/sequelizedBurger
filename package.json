@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "sequelizedBurger",
   "version": "1.0.0",
   "description": "using express handlebars and orms to create dynamic html",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jthomasi/burger.git"
+    "url": "git+https://github.com/jthomasi/sequelizedBurger.git"
   },
   "author": "jesse thomas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jthomasi/burger/issues"
+    "url": "https://github.com/jthomasi/sequelizedBurger/issues"
   },
-  "homepage": "https://github.com/jthomasi/burger#readme",
+  "homepage": "https://github.com/jthomasi/sequelizedBurger#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
